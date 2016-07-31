@@ -2,7 +2,7 @@
 
 Octave solutions for the Machine learning course as of July 2016 @ Coursera
 
-Ex.  1: 
+Ex. 1: 
 Linear regression with one variable. Gradient Descent.
 
 Ex. 2: 
@@ -16,18 +16,18 @@ Ex. 4:
 Neural Networks Learning
 Feedforward and backpropogation
 
-Ex.5:
+Ex. 5:
 Regularized Linear Regression and Bias v.s. Variance
 
-Ex.6:
+Ex. 6:
 Support Vector Machines
 Gaussian Kernels. Email Preprosessing and Feature Extraction
 
-Ex.7:
+Ex. 7:
 K-means Clustering and Principal Component Analysis
 K-means. Dimensionality reduction
 
-Ex.8:
+Ex. 8:
 Anomaly Detection and Recommender Systems
 Threshold selection. Collaborative filtering learning
 
